@@ -2,7 +2,7 @@
 <!--Nombre, escuela, ingenieria, departamento, logo escuela etc-->
 
 <!--Titulo-->
-![](Img_Titulo.png)
+![Titulo](Img_Titulo.png)
 
 <!--Imagen sensor-->
 <!--![](Img_Sensor.png)-->
