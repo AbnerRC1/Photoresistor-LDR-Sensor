@@ -52,6 +52,10 @@ Abner Ramírez Castañeda
     </p>
   <img src="Img_Simbolo.PNG" width="150" height="100">
   </div>
+    <!--Imagenes de ejemplo-->
+    <!--Explicacion de ejemplo-->
+    <!--Codigo de ejemplo por markdown-->
+</center>
   ```c++
 #include <LiquidCrystal_I2C.h>
 #define LDR_PIN 2
@@ -92,8 +96,3 @@ void loop() {
   delay(100);
 }
   ```
-    
-    <!--Imagenes de ejemplo-->
-    <!--Explicacion de ejemplo-->
-    <!--Codigo de ejemplo por markdown-->
-</center>
