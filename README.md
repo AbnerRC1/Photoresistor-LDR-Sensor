@@ -43,14 +43,14 @@ Abner Ramírez Castañeda
     <p align="justify">
       Fotorresistores extrínsecos: los fotorresistores extrínsecos se fabrican a partir de semiconductores de materiales dopados con impurezas. Estas impurezas o dopantes crean una nueva banda de energía por encima de la banda de valencia existente. Como resultado, los electrones necesitan menos energía para transferirse a la banda de conducción debido a la menor brecha de energía.
     </p>
-    <h1>Símbolo del Phtoresistor</h1>
+    <h1>Símbolo del Photoresistor</h1>
     <p align="justify">
       En base al estándar IEC el símbolo dentro de un circuito tiene forma de un rectángulo con una entrada y una salida, y dos punteros apuntando hacia abajo. Algunas veces puede que se encuentre plasmado el símbolo con un círculo rodeandolo.
   <img src="Img_Simbolo.PNG" width="150" height="100">
     </p>
+  </div>
     
     <!-- Imagenes de ejemplo -->
     <!-- Explicacion de ejemplo -->
     <!-- Codigo de ejemplo por markdown -->
-  </div>
 </center>
