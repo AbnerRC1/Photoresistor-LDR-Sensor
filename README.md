@@ -1,14 +1,12 @@
 # Photoresistor (LDR) Sensor
 <center>
   <img src="Img_Escuela.png">
-  <div align="center">
-  <p>Tecnológico​ ​Nacional​ ​de​ ​México Instituto Tecnológico de Tijuana</p>
-  <p>...</p>
-  <p>...</p>
-  <p>...</p>
-  <p>...</p>
+  <div text-align="center">
+  <p font-size="200%">Tecnológico​ ​Nacional​ ​de​ ​México Instituto Tecnológico de Tijuana</p>
+  <p font-size="150%">Departamento de Sistemas y Computación - Ingeniería en Sistemas Computacionales</p>
+  <p>Sistemas Programables - Rene Solis Reyes</p>
+  <p font-size="120%">Abner Ramírez Castañeda - No. de control: 20211828</p>
   </div>
-<!--Nombre, escuela, ingenieria, departamento, logo escuela etc-->
 </center>
 
 # Presentación
