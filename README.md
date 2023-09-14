@@ -46,8 +46,8 @@ Abner Ramírez Castañeda
     <h1>Símbolo del Phtoresistor</h1>
     <p align="justify">
       En base al estándar IEC el símbolo dentro de un circuito tiene forma de un rectángulo con una entrada y una salida, y dos punteros apuntando hacia abajo. Algunas veces puede que se encuentre plasmado el símbolo con un círculo rodeandolo.
-    </p>
   <img src="Img_Simbolo.png" widht="150" height="150">
+    </p>
     
     <!-- Imagenes de ejemplo -->
     <!-- Explicacion de ejemplo -->
