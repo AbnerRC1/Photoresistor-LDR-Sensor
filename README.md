@@ -5,7 +5,7 @@
 ![Titulo](Img_Titulo.png)
 
 <!--Imagen sensor-->
-<!--![](Img_Sensor.png)-->
+![](Img_Sensor.png)
 
 <!--Descripcion basica del sensor-->
 <!--...-->
