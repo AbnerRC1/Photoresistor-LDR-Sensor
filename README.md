@@ -1,13 +1,13 @@
 # Photoresistor (LDR) Sensor
 <center>
   <img src="Img_Escuela.png">
-  <p align="center">
-    ...
-
-    ...
-
-    ...
-  </p>
+  <div align="center">
+  <p>Tecnológico​ ​Nacional​ ​de​ ​México Instituto Tecnológico de Tijuana</p>
+  <p>...</p>
+  <p>...</p>
+  <p>...</p>
+  <p>...</p>
+  </div>
 <!--Nombre, escuela, ingenieria, departamento, logo escuela etc-->
 </center>
 
