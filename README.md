@@ -56,6 +56,9 @@ Abner Ramírez Castañeda
     <!--Explicacion de ejemplo-->
     <!--Codigo de ejemplo por markdown-->
 </center>
+
+# Codigo
+
 ```cpp
 #include <LiquidCrystal_I2C.h>
 #define LDR_PIN 2
