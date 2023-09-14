@@ -1,5 +1,4 @@
-![image](https://github.com/AbnerRC1/abnerrc1.github.io/assets/134168287/2bbb4abe-bfc2-4f7c-b6f4-fa9e3fb28fc0)# Photoresistor (LDR) Sensor
-  <img src="Img_Escuela.png">
+<img src="Img_Escuela.png">
 
 **Tecnológico​ ​Nacional​ ​de​ ​México Instituto Tecnológico de Tijuana**
 
