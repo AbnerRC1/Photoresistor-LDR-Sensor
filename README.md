@@ -3,7 +3,7 @@
 
 <!--Titulo-->
 <center>
-![Titulo](Img_Titulo.png)
+<img src="Img_Titulo.png"></img>
 </center>
 
 <!--Imagen sensor-->
