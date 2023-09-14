@@ -22,7 +22,7 @@ Abner Ramírez Castañeda
     <p align="justify">
       El Photoresistor es un componente electrónico dependiente de la luz, esto significa que detecta y mide la intensidad de la luz que atrapa por medio de su sensor, con esta entrada puede manejar las operaciones del circuito al que está conectado.
     </p>
-  <img src="Img_Sensor.png">
+  <img src="Img_Sensor.png" widht="100" height="100">
     <h1>Como se Componente</h1>
     <p align="justify">
       El Resistor Dependiente de la Luz es creado de materiales semiconductores para dejar al componente tener propiedades de sensibilidad a la luz; normalmente se han usado materiales como el sulfuro de cadmio “CdSe”, sulfuro de plomo “PbS” o antimoniuro de indio “InSb”.
