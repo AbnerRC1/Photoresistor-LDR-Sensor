@@ -17,7 +17,7 @@ Abner Ramírez Castañeda
 <center>
   <img src="Img_Titulo.png">
   <div min-height="100vh" margin="50%" auto width="40%">
-    <h1 text-align="center" font-size="10px">DESCRIPCIÓN</h1>
+    <h1 text-align="middle">Descripción</h1>
     <p align="justify">
       El Photoresistor es un componente electrónico dependiente de la luz, esto significa que detecta y mide la intensidad de la luz que atrapa por medio de su sensor, con esta entrada puede manejar las operaciones del circuito al que está conectado.
     </p>
