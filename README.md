@@ -51,6 +51,15 @@ Abner Ramírez Castañeda
       En base al estándar IEC el símbolo dentro de un circuito tiene forma de un rectángulo con una entrada y una salida, y dos punteros apuntando hacia abajo. Algunas veces puede que se encuentre plasmado el símbolo con un círculo rodeandolo.
     </p>
   <img src="Img_Simbolo.PNG" width="150" height="100">
+    <h1>Ejemplo de su uso</h1>
+    <p align="justify">
+      ...
+    </p>
+  <img src="Img_Circuito.PNG" width="200" height="300">
+    <p align="justify">
+      ...
+    </p>
+  <img src="Img_CircuitoIntensidad.PNG" width="350" height="100">
   </div>
 </center>
 
