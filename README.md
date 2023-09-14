@@ -4,7 +4,7 @@
 <!--Titulo-->
 <center>
 <img src="Img_Titulo.png"></img>
-</center>center>
+</center>
 
 <!--Imagen sensor-->
 <!--![](Img_Sensor.png)-->
