@@ -49,11 +49,11 @@ Abner Ramírez Castañeda
     <h1>Símbolo del Photoresistor</h1>
     <p align="justify">
       En base al estándar IEC el símbolo dentro de un circuito tiene forma de un rectángulo con una entrada y una salida, y dos punteros apuntando hacia abajo. Algunas veces puede que se encuentre plasmado el símbolo con un círculo rodeandolo.
-  <img src="Img_Simbolo.PNG" width="150" height="100">
     </p>
+  <img src="Img_Simbolo.PNG" width="150" height="100">
   </div>
     
-    <!-- Imagenes de ejemplo -->
-    <!-- Explicacion de ejemplo -->
-    <!-- Codigo de ejemplo por markdown -->
+    <!--Imagenes de ejemplo-->
+    <!--Explicacion de ejemplo-->
+    <!--Codigo de ejemplo por markdown-->
 </center>
