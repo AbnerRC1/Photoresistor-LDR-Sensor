@@ -1,6 +1,8 @@
 # Photoresistor (LDR) Sensor
-<!--Datos-->
+<center>
+  <img src="Img_Escuela.png">
 <!--Nombre, escuela, ingenieria, departamento, logo escuela etc-->
+</center>
 
 # Presentación
 <center>
