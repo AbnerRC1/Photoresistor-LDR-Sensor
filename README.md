@@ -6,7 +6,7 @@
 <center>
   <img src="Img_Titulo.png">
   <div align-items="center" justify-content="center">
-    <div max-width="25%" max-height="15%" float="left">
+    <div max-width="2%" max-height="1%" float="left">
     <img src="Img_Titulo.png">
     </div>
     <div float="left">
