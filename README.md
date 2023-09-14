@@ -23,11 +23,10 @@ Abner Ramírez Castañeda
     </p>
   <img src="Img_Sensor.png" width="200" height="170">
     <h1>Como se Componente</h1>
-  <img src="Img_Estructura1.png" width="200" height="200">
     <p align="justify">
       El Resistor Dependiente de la Luz es creado de materiales semiconductores para dejar al componente tener propiedades de sensibilidad a la luz; normalmente se han usado materiales como el sulfuro de cadmio “CdSe”, sulfuro de plomo “PbS” o antimoniuro de indio “InSb”.
     </p>
-  <img src="Img_Estructura2.PNG" width="270" height="150">
+  <img src="Img_Estructura1.png" width="200" height="200">
     <p align="justify">
       Para fabricar un LDR de sulfuro de cadmio, se mezclan polvo de sulfuro de cadmio altamente purificado y materiales aglutinantes inertes. Luego esta mezcla se prensa y sinteriza. Los electrodos se evaporan al vacío sobre la superficie de un lado para formar peines entrelazados y se conectan los cables de conexión. Luego, el disco se monta en una envoltura de vidrio o se encapsula en plástico transparente para evitar la contaminación de la superficie. La curva de respuesta espectral del sulfuro de cadmio coincide con la del ojo humano. La longitud de onda de máxima sensibilidad es de aproximadamente 560-600 nm, que se encuentra en la parte visible del espectro. Cabe señalar que los dispositivos que contienen plomo o cadmio no cumplen con RoHS y su uso está prohibido en países que cumplen con las leyes RoHS.
     </p>
@@ -36,6 +35,7 @@ Abner Ramírez Castañeda
     <p align="justify">
       Cuando la luz es atrapada por el material semiconductor, los fotones de luz son absorbidos por la red del semiconductor y parte de su energía se transfiere a los electrones.
     </p>
+  <img src="Img_Estructura2.PNG" width="270" height="150">
     <p align="justify">
       La cantidad de energía transferida a los electrones les da a algunos de ellos suficiente energía para liberarse de la red cristalina y luego poder conducir electricidad. Esto da como resultado una reducción de la resistencia del semiconductor y, por tanto, de la resistencia global del LDR. El proceso es progresivo y, a medida que más luz incide sobre el semiconductor LDR, se liberan más electrones para conducir la electricidad y la resistencia cae aún más.
     </p>
