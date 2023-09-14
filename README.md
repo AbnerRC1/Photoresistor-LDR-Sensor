@@ -1,4 +1,4 @@
-# Photoresistor (LDR) Sensor
+![image](https://github.com/AbnerRC1/abnerrc1.github.io/assets/134168287/2bbb4abe-bfc2-4f7c-b6f4-fa9e3fb28fc0)# Photoresistor (LDR) Sensor
   <img src="Img_Escuela.png">
 
 **Tecnológico​ ​Nacional​ ​de​ ​México Instituto Tecnológico de Tijuana**
@@ -22,7 +22,7 @@ Abner Ramírez Castañeda
     <p align="justify">
       El Photoresistor es un componente electrónico dependiente de la luz, esto significa que detecta y mide la intensidad de la luz que atrapa por medio de su sensor, con esta entrada puede manejar las operaciones del circuito al que está conectado.
     </p>
-  <img src="Img_Sensor.png" widht="300" height="300">
+  <img src="Img_Sensor.png" widht="200" height="200">
     <h1>Como se Componente</h1>
     <p align="justify">
       El Resistor Dependiente de la Luz es creado de materiales semiconductores para dejar al componente tener propiedades de sensibilidad a la luz; normalmente se han usado materiales como el sulfuro de cadmio “CdSe”, sulfuro de plomo “PbS” o antimoniuro de indio “InSb”.
@@ -48,6 +48,8 @@ Abner Ramírez Castañeda
     <p align="justify">
       En base al estándar IEC el símbolo dentro de un circuito tiene forma de un rectángulo con una entrada y una salida, y dos punteros apuntando hacia abajo. Algunas veces puede que se encuentre plasmado el símbolo con un círculo rodeandolo.
     </p>
+  <img src="Img_Sensor.png" widht="150" height="150">
+    
     <!-- Imagenes de ejemplo -->
     <!-- Explicacion de ejemplo -->
     <!-- Codigo de ejemplo por markdown -->
