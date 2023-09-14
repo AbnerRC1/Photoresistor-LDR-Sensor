@@ -52,12 +52,9 @@ Abner Ramírez Castañeda
     </p>
   <img src="Img_Simbolo.PNG" width="150" height="100">
   </div>
-    <!--Imagenes de ejemplo-->
-    <!--Explicacion de ejemplo-->
-    <!--Codigo de ejemplo por markdown-->
 </center>
 
-# Codigo
+# Código
 
 ```cpp
 #include <LiquidCrystal_I2C.h>
