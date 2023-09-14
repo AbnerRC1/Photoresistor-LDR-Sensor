@@ -56,7 +56,7 @@ Abner Ramírez Castañeda
     <!--Explicacion de ejemplo-->
     <!--Codigo de ejemplo por markdown-->
 </center>
-  ```c++
+```cpp
 #include <LiquidCrystal_I2C.h>
 #define LDR_PIN 2
 
@@ -95,4 +95,4 @@ void loop() {
 
   delay(100);
 }
-  ```
+```
