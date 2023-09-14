@@ -30,15 +30,21 @@ Abner Ramírez Castañeda
     </p>
     <h1>Cómo Funciona</h1>
     <p align="justify">
-      ...
+      Cuando la luz es atrapada por el material semiconductor, los fotones de luz son absorbidos por la red del semiconductor y parte de su energía se transfiere a los electrones.
+    </p>
+    <p align="justify">
+      La cantidad de energía transferida a los electrones les da a algunos de ellos suficiente energía para liberarse de la red cristalina y luego poder conducir electricidad. Esto da como resultado una reducción de la resistencia del semiconductor y, por tanto, de la resistencia global del LDR. El proceso es progresivo y, a medida que más luz incide sobre el semiconductor LDR, se liberan más electrones para conducir la electricidad y la resistencia cae aún más.
     </p>
     <h1>Tipos de Photoresistores</h1>
     <p align="justify">
-      ...
+      Fotorresistores intrínsecos: los fotorresistores intrínsecos utilizan materiales semiconductores no dopados, incluidos silicio o germanio. Los fotones que caen sobre el LDR excitan a los electrones moviéndose desde la banda de valencia a la banda de conducción. Como resultado, estos electrones quedan libres para conducir electricidad. Cuanta más luz incide sobre el dispositivo, más electrones se liberan y mayor es el nivel de conductividad, y esto se traduce en un menor nivel de resistencia.
+    </p>
+    <p align="justify">
+      Fotorresistores extrínsecos: los fotorresistores extrínsecos se fabrican a partir de semiconductores de materiales dopados con impurezas. Estas impurezas o dopantes crean una nueva banda de energía por encima de la banda de valencia existente. Como resultado, los electrones necesitan menos energía para transferirse a la banda de conducción debido a la menor brecha de energía.
     </p>
     <h1>Símbolo del Phtoresistor</h1>
     <p align="justify">
-      ...
+      En base al estándar IEC el símbolo dentro de un circuito tiene forma de un rectángulo con una entrada y una salida, y dos punteros apuntando hacia abajo. Algunas veces puede que se encuentre plasmado el símbolo con un círculo rodeandolo.
     </p>
     <!-- Imagen de resistor -->
     <!-- Imagenes de ejemplo -->
