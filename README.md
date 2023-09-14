@@ -1,7 +1,4 @@
-<head>
-  <title>Photoresistor (LDR) Sensor</title>
-</head>
-# Portada
+# Photoresistor (LDR) Sensor
 <!--Datos-->
 <!--Nombre, escuela, ingenieria, departamento, logo escuela etc-->
 
