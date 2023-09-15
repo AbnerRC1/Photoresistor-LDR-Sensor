@@ -45,12 +45,6 @@ Abner Ramírez Castañeda
 
 - Fotorresistores intrínsecos.
 - Fotorresistores extrínsecos.
-
-| Fotorresistores intrínsecos | Utilizan materiales semiconductores no dopados                                               |
-|:---------------------------:|----------------------------------------------------------------------------------------------|
-|                             | Cuanta más luz, más electrones se liberan, mayor conductividad y menor nivel de resistencia  |
-| Fotorresistores extrínsecos | Utilizan materiales semiconductores dopados                                                  |
-|                             | Los electrones necesitan menos energía para transferirse debido a la menor brecha de energía |
     
 <center>
   <div>
@@ -60,6 +54,16 @@ Abner Ramírez Castañeda
     <p align="justify">
       Fotorresistores extrínsecos: los fotorresistores extrínsecos se fabrican a partir de semiconductores de materiales dopados con impurezas. Estas impurezas o dopantes crean una nueva banda de energía por encima de la banda de valencia existente. Como resultado, los electrones necesitan menos energía para transferirse a la banda de conducción debido a la menor brecha de energía.
     </p>
+  </div>
+</center>
+
+|                                 Fotorresistores intrínsecos                                 |                                  Fotorresistores extrínsecos                                 |
+|:-------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|
+| Utilizan materiales semiconductores no dopados                                              | Utilizan materiales semiconductores dopados                                                  |
+| Cuanta más luz, más electrones se liberan, mayor conductividad y menor nivel de resistencia | Los electrones necesitan menos energía para transferirse debido a la menor brecha de energía |
+
+<div>
+  <center>
     <h1>Símbolo del Photoresistor</h1>
     <p align="justify">
       En base al estándar IEC el símbolo dentro de un circuito tiene forma de un rectángulo con una entrada y una salida, y dos punteros apuntando hacia abajo. Algunas veces puede que se encuentre plasmado el símbolo con un círculo rodeandolo.
