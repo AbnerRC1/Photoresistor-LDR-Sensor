@@ -53,11 +53,11 @@ Abner Ramírez Castañeda
   <img src="Img_Simbolo.PNG" width="150" height="100">
     <h1>Ejemplo de su uso</h1>
     <p align="justify">
-      Dentro de la página de Woki, se agregan los componentes de un Arduino Uno, el sensor del photoresistor y una pantalla para visualizar la intensidad de la luz que percibe como salida en texto. El Arduino Uno es programado dentro del simulador para realizar las acciones dependiendo de las opciones de los componentes.
+      Dentro de la página de Wokwi, se agregan los componentes de un Arduino Uno, el sensor del photoresistor y una pantalla LCD para visualizar la intensidad de la luz que percibe como salida en texto. El Arduino Uno es programado dentro del simulador para realizar las acciones dependiendo de las opciones de los componentes.
     </p>
   <img src="Img_Circuito.PNG" width="200" height="300">
     <p align="justify">
-      Al presionar en el componente del Photoresistor (LDR) sensor, se despliega una nueva sección, donde en ella se asigna el valor de iluminación simulada para ver que el programa funcione.
+      Al presionar en el componente del Photoresistor (LDR) sensor, se despliega una nueva sección, donde en ella se asigna el valor de iluminación por medio de Lux (lumen per square metre) simulada para ver que el programa funcione.
     </p>
   <img src="Img_CircuitoIntensidad.PNG" width="350" height="100">
   </div>
@@ -108,7 +108,7 @@ void loop() {
 <center>
   <div>
     <p align="justify">
-      ...
+      Al incluir la librería LiquidCrystal para el uso de la pantalla LCD, se asignan las características del LDR. En el método de setup, se inicia la pantalla LCD y se asigna la luz de fondo. Se maneja un ciclo donde se realizan los cálculos de luminosidad dependiendo del voltaje y la resistencia. Luego se asigna el texto que saldría en la pantalla LCD dependiendo de la luminosidad.
     </p>
   </div>
 </center>
