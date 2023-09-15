@@ -53,11 +53,11 @@ Abner Ramírez Castañeda
   <img src="Img_Simbolo.PNG" width="150" height="100">
     <h1>Ejemplo de su uso</h1>
     <p align="justify">
-      ...
+      Dentro de la página de Woki, se agregan los componentes de un Arduino Uno, el sensor del photoresistor y una pantalla para visualizar la intensidad de la luz que percibe como salida en texto. El Arduino Uno es programado dentro del simulador para realizar las acciones dependiendo de las opciones de los componentes.
     </p>
   <img src="Img_Circuito.PNG" width="200" height="300">
     <p align="justify">
-      ...
+      Al presionar en el componente del Photoresistor (LDR) sensor, se despliega una nueva sección, donde en ella se asigna el valor de iluminación simulada para ver que el programa funcione.
     </p>
   <img src="Img_CircuitoIntensidad.PNG" width="350" height="100">
   </div>
@@ -105,3 +105,11 @@ void loop() {
   delay(100);
 }
 ```
+<center>
+  <div>
+    <p align="justify">
+      ...
+    </p>
+  </div>
+</center>
+
