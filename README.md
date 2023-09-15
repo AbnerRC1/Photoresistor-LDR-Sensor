@@ -62,8 +62,8 @@ Abner Ramírez Castañeda
 | Utilizan materiales semiconductores no dopados                                              | Utilizan materiales semiconductores dopados                                                  |
 | Cuanta más luz, más electrones se liberan, mayor conductividad y menor nivel de resistencia | Los electrones necesitan menos energía para transferirse debido a la menor brecha de energía |
 
-<div>
-  <center>
+<center>
+  <div>
     <h1>Símbolo del Photoresistor</h1>
     <p align="justify">
       En base al estándar IEC el símbolo dentro de un circuito tiene forma de un rectángulo con una entrada y una salida, y dos punteros apuntando hacia abajo. Algunas veces puede que se encuentre plasmado el símbolo con un círculo rodeandolo.
