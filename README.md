@@ -45,6 +45,12 @@ Abner Ramírez Castañeda
 
 - Fotorresistores intrínsecos.
 - Fotorresistores extrínsecos.
+
+| Fotorresistores intrínsecos | Utilizan materiales semiconductores no dopados                                               |
+|:---------------------------:|----------------------------------------------------------------------------------------------|
+|                             | Cuanta más luz, más electrones se liberan, mayor conductividad y menor nivel de resistencia  |
+| Fotorresistores extrínsecos | Utilizan materiales semiconductores dopados                                                  |
+|                             | Los electrones necesitan menos energía para transferirse debido a la menor brecha de energía |
     
 <center>
   <div>
