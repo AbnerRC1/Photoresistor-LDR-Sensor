@@ -40,6 +40,10 @@ Abner Ramírez Castañeda
       La cantidad de energía transferida a los electrones les da a algunos de ellos suficiente energía para liberarse de la red cristalina y luego poder conducir electricidad. Esto da como resultado una reducción de la resistencia del semiconductor y, por tanto, de la resistencia global del LDR. El proceso es progresivo y, a medida que más luz incide sobre el semiconductor LDR, se liberan más electrones para conducir la electricidad y la resistencia cae aún más.
     </p>
     <h1>Tipos de Photoresistores</h1>
+
+- Fotorresistores intrínsecos:
+- Fotorresistores extrínsecos:
+    
     <p align="justify">
       Fotorresistores intrínsecos: los fotorresistores intrínsecos utilizan materiales semiconductores no dopados, incluidos silicio o germanio. Los fotones que caen sobre el LDR excitan a los electrones moviéndose desde la banda de valencia a la banda de conducción. Como resultado, estos electrones quedan libres para conducir electricidad. Cuanta más luz incide sobre el dispositivo, más electrones se liberan y mayor es el nivel de conductividad, y esto se traduce en un menor nivel de resistencia.
     </p>
