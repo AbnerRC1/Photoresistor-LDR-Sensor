@@ -73,60 +73,31 @@ Abner Ramírez Castañeda
     <p align="justify">
       Dentro de la página de Wokwi, se agregan los componentes de un Arduino Uno, el sensor del photoresistor y una pantalla LCD para visualizar la intensidad de la luz que percibe como salida en texto. El Arduino Uno es programado dentro del simulador para realizar las acciones dependiendo de las opciones de los componentes.
     </p>
-  <img src="Img_Circuito.PNG" width="200" height="300">
-    <p align="justify">
-      Al presionar en el componente del Photoresistor (LDR) sensor, se despliega una nueva sección, donde en ella se asigna el valor de iluminación por medio de Lux (lumen per square metre) simulada para ver que el programa funcione.
-    </p>
-  <img src="Img_CircuitoIntensidad.PNG" width="350" height="100">
+  <img src="Img_CircuitoPi.PNG" width="200" height="250">
   </div>
 </center>
 
 # Código
 
-```cpp
-#include <LiquidCrystal_I2C.h>
-#define LDR_PIN 2
-
-const float GAMMA = 0.7;
-const float RL10 = 50;
-
-LiquidCrystal_I2C lcd(0x27, 20, 4);
-
-void setup() {
-  pinMode(LDR_PIN, INPUT);
-  lcd.init();
-  lcd.backlight();
-}
-
-void loop() {
-  int analogValue = analogRead(A0);
-  float voltage = analogValue / 1024. * 5;
-  float resistance = 2000 * voltage / (1 - voltage / 5);
-  float lux = pow(RL10 * 1e3 * pow(10, GAMMA) / resistance, (1 / GAMMA));
-
-  lcd.setCursor(2, 0);
-  lcd.print("Room: ");
-  if (lux > 50)
-  {
-    lcd.print("Light!");
-  }
-  else
-  {
-    lcd.print("Dark  ");
-  }
-
-  lcd.setCursor(0, 1);
-  lcd.print("Lux: ");
-  lcd.print(lux);
-  lcd.print("          ");
-
-  delay(100);
-}
+```python
+from machine import Pin
+import time
+ 
+led = Pin(0, Pin.OUT)
+ldr = Pin(2, Pin.IN, Pin.PULL_DOWN)
+ 
+while True:
+    if ldr.value():
+        led.value(1)
+        time.sleep(0.5)
+    else:
+        led.value(0)
+        time.sleep(0.5)
 ```
 <center>
   <div>
     <p align="justify">
-      Al incluir la librería LiquidCrystal para el uso de la pantalla LCD, se asignan las características del LDR. En el método de setup, se inicia la pantalla LCD y se asigna la luz de fondo. Se maneja un ciclo donde se realizan los cálculos de luminosidad dependiendo del voltaje y la resistencia. Luego se asigna el texto que saldría en la pantalla LCD dependiendo de la luminosidad.
+      Se importa el Pin y la librería del tiempo, se asignan los pines y luego se asigna la activación del led dependiendo del valor del sensor, prendiendolo al no detectar suficiente luz, y apagandola al obtener suficiente.
     </p>
   </div>
 </center>
