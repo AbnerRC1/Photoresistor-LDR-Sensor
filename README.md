@@ -71,9 +71,9 @@ Abner Ramírez Castañeda
   <img src="Img_Simbolo.PNG" width="150" height="100">
     <h1>Ejemplo de su uso</h1>
     <p align="justify">
-      Dentro de la página de Wokwi, se agregan los componentes de un Arduino Uno, el sensor del photoresistor y una pantalla LCD para visualizar la intensidad de la luz que percibe como salida en texto. El Arduino Uno es programado dentro del simulador para realizar las acciones dependiendo de las opciones de los componentes.
+      Dentro de la página de Wokwi, se agregan los componentes de un PicoW, el sensor del photoresistor y un LED para visualizar si recibe suficiente luz o no. El PicoW es programado dentro del simulador para realizar las acciones dependiendo de las opciones de los componentes.
     </p>
-  <img src="Img_CircuitoPi.PNG" width="200" height="250">
+  <img src="Img_CircuitoPi.PNG" width="250" height="250">
   </div>
 </center>
 
