@@ -16,7 +16,8 @@ Abner Ramírez Castañeda
 
 | Nombre                 | Icono | Descripción                                    | Samsung A13   |
 |------------------------|-------|------------------------------------------------|---------------|
-| Sensor de aceleración  |![](SensoresSmartphone/Img_IcoAccel.jpg)| Detecta la dirección del celular.              | Disponible    |
+| Sensor de aceleración  |![](SensoresSmartphone/Img_IcoAccel.jpg)| El acelerómetro del móvil consta de una parte móvil que se mueve dependiendo de la aceleración que le apliques, y de otra fija que interpreta el voltaje resultante de este movimiento para determinar la velocidad a la que lo hace y su orientación. En este apartado de la aplicación descargada, se tiene una bola de fútbol que simula su movimiento dependiendo de la gravedad o aceleración aplicada desplegando sus ejes.
+             | Disponible    |
 | Sensor magnético       |![](SensoresSmartphone/Img_IcoMagnet.jpg)| Detecta el nivel magnético.                    | Disponible    |
 | Sensor de orientación  |![](SensoresSmartphone/Img_IcoOrient.jpg)| Detecta la rotación del celular.               | Disponible    |
 | Sensor de aproximación |![](SensoresSmartphone/Img_IcoProx.jpg)| Detecta la distancia entre dos puntos.         | Disponible    |
