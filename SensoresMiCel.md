@@ -16,15 +16,15 @@ Abner Ramírez Castañeda
 
 | Nombre                 | Icono | Descripción                                    | Samsung A13   |
 |------------------------|-------|------------------------------------------------|---------------|
-| Sensor de aceleración  |![a](SensoresSmartphone/Img_IcoAccel)| Detecta la dirección del celular.              | Disponible    |
-| Sensor magnético       |![](SensoresSmartphone/Img_IcoMagnet)| Detecta el nivel magnético.                    | Disponible    |
-| Sensor de orientación  |![](SensoresSmartphone/Img_IcoOrient)| Detecta la rotación del celular.               | Disponible    |
-| Sensor de aproximación |![](SensoresSmartphone/Img_IcoProx)| Detecta la distancia entre dos puntos.         | Disponible    |
-| Sensor giroscopio      |![](SensoresSmartphone/Img_IcoGiro)| Detecta la velocidad por medio de la gravedad. | No disponible |
-| Sensor de luz          |![](SensoresSmartphone/Img_IcoLuz)| Detecta el nivel de luz atrapada.              | No disponible |
-| Sensor de temperatura  |![](SensoresSmartphone/Img_IcoTemp)| Detecta la temperatura por medio del celular.  | No disponible |
-| Sensor de sonido       |![](SensoresSmartphone/Img_IcoSonido)| Detecta el nivel de sonido alrededor.          | No disponible |
-| Sensor de presión      |![](SensoresSmartphone/Img_IcoPresi)| Detecta la presión atmosférica.                | No disponible |
+| Sensor de aceleración  ![](SensoresSmartphone/Img_IcoAccel)| Detecta la dirección del celular.              | Disponible    |
+| Sensor magnético       ![](SensoresSmartphone/Img_IcoMagnet)| Detecta el nivel magnético.                    | Disponible    |
+| Sensor de orientación  ![](SensoresSmartphone/Img_IcoOrient)| Detecta la rotación del celular.               | Disponible    |
+| Sensor de aproximación ![](SensoresSmartphone/Img_IcoProx)| Detecta la distancia entre dos puntos.         | Disponible    |
+| Sensor giroscopio      ![](SensoresSmartphone/Img_IcoGiro)| Detecta la velocidad por medio de la gravedad. | No disponible |
+| Sensor de luz          ![](SensoresSmartphone/Img_IcoLuz)| Detecta el nivel de luz atrapada.              | No disponible |
+| Sensor de temperatura  ![](SensoresSmartphone/Img_IcoTemp)| Detecta la temperatura por medio del celular.  | No disponible |
+| Sensor de sonido       ![](SensoresSmartphone/Img_IcoSonido)| Detecta el nivel de sonido alrededor.          | No disponible |
+| Sensor de presión      ![](SensoresSmartphone/Img_IcoPresi)| Detecta la presión atmosférica.                | No disponible |
 
 <center>
   <div>
