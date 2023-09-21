@@ -16,15 +16,15 @@ Abner Ramírez Castañeda
 
 | Nombre                 | Icono | Descripción                                    | Samsung A13   |
 |------------------------|-------|------------------------------------------------|---------------|
-| Sensor de aceleración  ![](SensoresSmartphone/Img_IcoAccel.PNG)| Detecta la dirección del celular.              | Disponible    |
-| Sensor magnético       ![](SensoresSmartphone/Img_IcoMagnet.PNG)| Detecta el nivel magnético.                    | Disponible    |
-| Sensor de orientación  ![](SensoresSmartphone/Img_IcoOrient.PNG)| Detecta la rotación del celular.               | Disponible    |
-| Sensor de aproximación ![](SensoresSmartphone/Img_IcoProx.PNG)| Detecta la distancia entre dos puntos.         | Disponible    |
-| Sensor giroscopio      ![](SensoresSmartphone/Img_IcoGiro.PNG)| Detecta la velocidad por medio de la gravedad. | No disponible |
-| Sensor de luz          ![](SensoresSmartphone/Img_IcoLuz.PNG)| Detecta el nivel de luz atrapada.              | No disponible |
-| Sensor de temperatura  ![](SensoresSmartphone/Img_IcoTemp.PNG)| Detecta la temperatura por medio del celular.  | No disponible |
-| Sensor de sonido       ![](SensoresSmartphone/Img_IcoSonido.PNG)| Detecta el nivel de sonido alrededor.          | No disponible |
-| Sensor de presión      ![](SensoresSmartphone/Img_IcoPresi.PNG)| Detecta la presión atmosférica.                | No disponible |
+| Sensor de aceleración  ![](SensoresSmartphone/Img_IcoAccel.jpg)| Detecta la dirección del celular.              | Disponible    |
+| Sensor magnético       ![](SensoresSmartphone/Img_IcoMagnet.jpg)| Detecta el nivel magnético.                    | Disponible    |
+| Sensor de orientación  ![](SensoresSmartphone/Img_IcoOrient.jpg)| Detecta la rotación del celular.               | Disponible    |
+| Sensor de aproximación ![](SensoresSmartphone/Img_IcoProx.jpg)| Detecta la distancia entre dos puntos.         | Disponible    |
+| Sensor giroscopio      ![](SensoresSmartphone/Img_IcoGiro.jpg)| Detecta la velocidad por medio de la gravedad. | No disponible |
+| Sensor de luz          ![](SensoresSmartphone/Img_IcoLuz.jpg)| Detecta el nivel de luz atrapada.              | No disponible |
+| Sensor de temperatura  ![](SensoresSmartphone/Img_IcoTemp.jpg)| Detecta la temperatura por medio del celular.  | No disponible |
+| Sensor de sonido       ![](SensoresSmartphone/Img_IcoSonido.jpg)| Detecta el nivel de sonido alrededor.          | No disponible |
+| Sensor de presión      ![](SensoresSmartphone/Img_IcoPresi.jpg)| Detecta la presión atmosférica.                | No disponible |
 
 <center>
   <div>
