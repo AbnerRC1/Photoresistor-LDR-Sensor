@@ -16,7 +16,7 @@ Abner Ramírez Castañeda
 
 <center>
   <div>
-    <h1>Samsung A13<</h1>
+    <h1>Samsung A13</h1>
     <p align="justify">
       ###############
     </p>
