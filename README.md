@@ -14,6 +14,6 @@ Abner Ramírez Castañeda
 
 # Archivos
 
-PhotoResistor.md
+[Exposición de Photoresistor (LDR) sensor](/PhotoResistor.md)
 
-SensoresMiCel.md
+[1.4 ¿Qué sensores tiene su smartphone vía APP?](/SensoresMiCel.md)
