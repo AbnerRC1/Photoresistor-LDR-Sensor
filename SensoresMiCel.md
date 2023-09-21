@@ -14,6 +14,18 @@ Abner Ramírez Castañeda
 
 # 1.4  ¿Qué sensores tiene su smartphone vía APP?
 
+| Nombre                 | Icono | Descripción | Samsung A13   |
+|------------------------|-------|-------------|---------------|
+| Sensor de aceleración  |       |             | Disponible    |
+| Sensor magnético       |       |             | Disponible    |
+| Sensor de orientación  |       |             | Disponible    |
+| Sensor de aproximación |       |             | Disponible    |
+| Sensor giroscopio      |       |             | No disponible |
+| Sensor de luz          |       |             | No disponible |
+| Sensor de temperatura  |       |             | No disponible |
+| Sensor de sonido       |       |             | No disponible |
+| Sensor de presión      |       |             | No disponible |
+
 <center>
   <div>
     <h1>Samsung A13</h1>
