@@ -1,4 +1,4 @@
-<img src="PhotoResistor/Img_Escuela.png">
+<img src="Img_Escuela.png">
 
 **Tecnológico​ ​Nacional​ ​de​ ​México Instituto Tecnológico de Tijuana**
 
