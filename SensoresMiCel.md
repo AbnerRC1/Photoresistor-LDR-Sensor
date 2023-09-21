@@ -16,7 +16,7 @@ Abner Ramírez Castañeda
 
 | Nombre                 | Icono | Descripción                                    | Samsung A13   |
 |------------------------|-------|------------------------------------------------|---------------|
-| Sensor de aceleración  |![](SensoresSmartphone/Img_IcoAccel)| Detecta la dirección del celular.              | Disponible    |
+| Sensor de aceleración  |![a](SensoresSmartphone/Img_IcoAccel)| Detecta la dirección del celular.              | Disponible    |
 | Sensor magnético       |![](SensoresSmartphone/Img_IcoMagnet)| Detecta el nivel magnético.                    | Disponible    |
 | Sensor de orientación  |![](SensoresSmartphone/Img_IcoOrient)| Detecta la rotación del celular.               | Disponible    |
 | Sensor de aproximación |![](SensoresSmartphone/Img_IcoProx)| Detecta la distancia entre dos puntos.         | Disponible    |
