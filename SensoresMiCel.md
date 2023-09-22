@@ -38,8 +38,8 @@ Abner Ramírez Castañeda
 
 | Sensor                                                            | Captura de resultados |
 |-------------------------------------------------------------------|-----------------------|
-| Sensor de aceleración                                             |<img src="SensoresSmartphone/Img_Cel.jpg" width="200" height="250">|
-| Sensor magnético                                                  ||
-| Sensor de orientación                                             ||
-| Sensor de aproximación                                            ||
-| Sensor giroscopio, de luz, de temperatura, de sonido y de presión ||
+| Sensor de aceleración                                             |<img src="SensoresSmartphone/Img_Acel.jpg" width="200" height="250">|
+| Sensor magnético                                                  |<img src="SensoresSmartphone/Img_Magnet.jpg" width="200" height="250">|
+| Sensor de orientación                                             |<img src="SensoresSmartphone/Img_Orient.jpg" width="200" height="250">|
+| Sensor de aproximación                                            |<img src="SensoresSmartphone/Img_Prox.jpg" width="200" height="250">|
+| Sensor giroscopio, de luz, de temperatura, de sonido y de presión |<img src="SensoresSmartphone/Img_NoDetecta.jpg" width="200" height="250">|
