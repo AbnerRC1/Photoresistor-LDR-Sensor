@@ -33,6 +33,9 @@ Abner Ramírez Castañeda
     <p align="justify">
       Al probar la aplicación de Sensor Box por Nirmal Labs en el smartphone Samsung A13, se realizó la prueba de los diferentes sensores desplegados en la interfaz de la aplicación para determinar si están disponibles por el hardware y cómo funcionan.
     </p>
+    <p align="justify">
+      Los apartados del sensor de luz, el sensor de temperatura, el sensor giroscopio y el sensor de presión parecen no ser disponibles con el celular Samsung A13, entonces al presionar sobre estos, se arroja un mensaje diciendo que el hardware del celular no soporta estos sensores. En el caso del sensor de sonido, se crasheó la aplicación al intentarse.
+    </p>
   </div>
 </center>
 
