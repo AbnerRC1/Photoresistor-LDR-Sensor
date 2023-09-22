@@ -42,4 +42,6 @@ Abner Ramírez Castañeda
 |  Sensor magnético                                                   |<img src="SensoresSmartphone/Img_Magnet.jpg" width="120" height="270">|
 |  Sensor de orientación                                              |<img src="SensoresSmartphone/Img_Orient.jpg" width="120" height="270">|
 |  Sensor de aproximación                                             |<img src="SensoresSmartphone/Img_ProxMtr.jpg" width="120" height="270">|
-|  Sensor giroscopio, de luz, de temperatura, de sonido y de presión  |<img src="SensoresSmartphone/Img_NoDetecta.jpg" width="120" height="270">|
+|  Sensor giroscopio,
+de luz, de temperatura,
+de sonido y de presión  |<img src="SensoresSmartphone/Img_NoDetecta.jpg" width="120" height="270">|
