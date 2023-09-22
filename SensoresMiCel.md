@@ -29,7 +29,7 @@ Abner Ramírez Castañeda
 <center>
   <div>
     <h1>Samsung A13</h1>
-  <img src="Img_Cel.jpg" width="200" height="170">
+  <img src="Img_Cel.jpg" width="200" height="300">
     <p align="justify">
       Al probar la aplicación de Sensor Box por Nirmal Labs en el smartphone Samsung A13, se realizó la prueba de los diferentes sensores desplegados en la interfaz de la aplicación para determinar si están disponibles por el hardware y cómo funcionan.
     </p>
