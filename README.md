@@ -17,3 +17,5 @@ Abner Ramírez Castañeda
 [Exposición de Photoresistor (LDR) sensor](/PhotoResistor.md)
 
 [1.4 ¿Qué sensores tiene su smartphone vía APP?](/SensoresMiCel.md)
+
+[Prácticas en el Pico-W](/PracticasPico-W.md)
