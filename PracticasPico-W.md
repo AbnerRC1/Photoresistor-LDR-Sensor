@@ -13,8 +13,9 @@ Abner Ramírez Castañeda
   > No. de control: 20211828
 
 # Desplegar “Hola Mundo” y el logo de la Ing. Sistemas Computacionales en una pantalla OLED.
-
-<img src="PracticasPico/imgHolaMundoOLED.jpg" width="500" height="300">
+<center>
+  <img src="PracticasPico/imgHolaMundoOLED.jpg" width="500" height="300">
+</center>
 
 ```python
 from machine import Pin, I2C
