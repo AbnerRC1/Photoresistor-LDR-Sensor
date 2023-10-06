@@ -14,7 +14,7 @@ Abner Ramírez Castañeda
 
 # Desplegar “Hola Mundo” y el logo de la Ing. Sistemas Computacionales en una pantalla OLED.
 
-![](PracticasPico/HolaMundoOLED.jpg)
+![](PracticasPico/imgHolaMundoOLED.jpg)
 
 ```python
 from machine import Pin, I2C
