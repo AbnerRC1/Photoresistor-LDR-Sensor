@@ -58,7 +58,7 @@ if __name__ == '__main__':
     main()
 ```
 
-# Desplegar “Hola Mundo” y el logo de la Ing. Sistemas Computacionales en una pantalla OLED.
+# Desplegar la hora actual y su icono apropiado en una pantalla OLED.
 <center>
   <img src="PracticasPico/imgHoraTijuana.jpg" width="500" height="300">
 </center>
