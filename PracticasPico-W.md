@@ -13,6 +13,7 @@ Abner Ramírez Castañeda
   > No. de control: 20211828
 
 [Practica 2.1 Hola Mundo y la Hora de Internet (NTP Time server)](#Hola-mundo)
+
 [2.2  Desplegar temperatura en OLED Display con bitArray imagen](#Temperatura)
 
 # Hola mundo
