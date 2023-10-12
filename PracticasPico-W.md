@@ -12,6 +12,9 @@ Abner Ramírez Castañeda
 
   > No. de control: 20211828
 
+[Practica 2.1 Hola Mundo y la Hora de Internet (NTP Time server)](# Desplegar “Hola Mundo” y el logo de la Ing. Sistemas Computacionales en una pantalla OLED.)
+[2.2  Desplegar temperatura en OLED Display con bitArray imagen](# Desplegar la tempertura del Pico-W y una imagen apropiada en una pantalla OLED.)
+
 # Desplegar “Hola Mundo” y el logo de la Ing. Sistemas Computacionales en una pantalla OLED.
 <center>
   <img src="PracticasPico/imgHolaMundoOLED.jpg" width="500" height="300">
