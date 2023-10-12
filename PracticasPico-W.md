@@ -12,10 +12,10 @@ Abner Ramírez Castañeda
 
   > No. de control: 20211828
 
-[Practica 2.1 Hola Mundo y la Hora de Internet (NTP Time server)](# Desplegar “Hola Mundo” y el logo de la Ing. Sistemas Computacionales en una pantalla OLED.)
-[2.2  Desplegar temperatura en OLED Display con bitArray imagen](# Desplegar la tempertura del Pico-W y una imagen apropiada en una pantalla OLED.)
+[Practica 2.1 Hola Mundo y la Hora de Internet (NTP Time server)](#Hola-mundo)
+[2.2  Desplegar temperatura en OLED Display con bitArray imagen](#Temperatura)
 
-# Desplegar “Hola Mundo” y el logo de la Ing. Sistemas Computacionales en una pantalla OLED.
+# Hola mundo
 <center>
   <img src="PracticasPico/imgHolaMundoOLED.jpg" width="500" height="300">
 </center>
@@ -61,7 +61,7 @@ if __name__ == '__main__':
     main()
 ```
 
-# Desplegar la hora actual y su icono apropiado en una pantalla OLED.
+# Hora Tijuana
 <center>
   <img src="PracticasPico/imgHoraTijuana.jpg" width="500" height="300">
 </center>
@@ -181,7 +181,7 @@ imgNoche = bytearray(
 )
 ```
 
-# Desplegar la tempertura del Pico-W y una imagen apropiada en una pantalla OLED.
+# Temperatura
 <center>
   <img src="PracticasPico/imgTempFrio.jpg" width="500" height="300">
   <img src="PracticasPico/imgTempTibio.jpg" width="500" height="300">
