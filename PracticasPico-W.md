@@ -18,6 +18,8 @@ Abner Ramírez Castañeda
 
 [2.2  Desplegar temperatura en OLED Display con bitArray imagen](#Temperatura)
 
+[2.3 Elabore un menú en OLED Display (MENU DE NAVEGACION) y Tipos de letra personalizadas FONTS](#Menu)
+
 # Hola mundo
 <center>
   <img src="PracticasPico/imgHolaMundoOLED.jpg" width="500" height="300">
