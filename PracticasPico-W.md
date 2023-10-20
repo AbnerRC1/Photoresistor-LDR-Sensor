@@ -327,11 +327,11 @@ while True:
 ```
 # Menu
 <center>
-  <img src="PracticasPico/imgMenu3Select1.jpg" width="500" height="300">
-  <img src="PracticasPico/imgMenu3Select2.jpg" width="500" height="300">
-  <img src="PracticasPico/imgMenu3Cat.jpg" width="500" height="270">
-  <img src="PracticasPico/imgMenu3Dog.jpg" width="500" height="270">
-  <img src="PracticasPico/imgMenu3Ham.jpg" width="500" height="270">
+  <img src="PracticasPico/imgMenu3Select1.jpg" width="500" height="250">
+  <img src="PracticasPico/imgMenu3Select2.jpg" width="500" height="250">
+  <img src="PracticasPico/imgMenu3Cat.jpg" width="500" height="250">
+  <img src="PracticasPico/imgMenu3Dog.jpg" width="500" height="250">
+  <img src="PracticasPico/imgMenu3Ham.jpg" width="500" height="250">
 </center>
 
 ```python
