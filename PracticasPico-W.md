@@ -14,9 +14,9 @@ Abner Ramírez Castañeda
 
 # Indice de practicas
 
-[Practica 2.1 Hola Mundo y la Hora de Internet (NTP Time server)](#Hola-mundo)
+[2.1 Hola Mundo y la Hora de Internet (NTP Time server)](#Hola-mundo)
 
-[2.2  Desplegar temperatura en OLED Display con bitArray imagen](#Temperatura)
+[2.2 Desplegar temperatura en OLED Display con bitArray imagen](#Temperatura)
 
 [2.3 Elabore un menú en OLED Display (MENU DE NAVEGACION) y Tipos de letra personalizadas FONTS](#Menu)
 
