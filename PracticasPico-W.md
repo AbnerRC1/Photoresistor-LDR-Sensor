@@ -20,7 +20,7 @@ Abner Ramírez Castañeda
 
 [2.3 Elabore un menú en OLED Display (MENU DE NAVEGACION) y Tipos de letra personalizadas FONTS](#Menu)
 
-
+[2.4 Elabore una solución con Pico W (oled display) + botón y ChatGTP](#ChatGPT)
 
 [2.5 Embeded Web Server PicoW (prender / pagar el BLINK led integrado por WEB)](#Web-Server)
 
@@ -1116,4 +1116,116 @@ def demo():
 
 if __name__ == "__main__":
     demo()
+```
+
+# ChatGPT
+<center>
+  <img src="PracticasPico/imgChatGPT.jpg" width="500" height="250">
+</center>
+
+```python
+# Hecho por Abner Ramirez Castaneda
+#     con un numero de control de 20211828.
+# Carrera de Ing. Sistemas Computacionales.
+# Sistemas Programables B por Rene Solis Reyes.
+
+import json
+import network
+import urequests
+import urequests as requests
+import ujson
+import io
+from time import sleep
+from machine import Pin, I2C
+from ssd1306 import SSD1306_I2C
+
+myURL = "https://api.openai.com/v1/chat/completions"
+myQuestion = "Dime un chiste corto sin texto extra"
+apiKey = "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"
+oled_resX = 128
+oled_resY = 64
+
+i2c = I2C(0, scl=Pin(21), sda=Pin(20), freq=200000)
+myOled = SSD1306_I2C(oled_resX, oled_resY, i2c)
+myButton = Pin(1, Pin.IN, Pin.PULL_UP)
+
+def Connect():
+    myOled.text("Esperando...", 0, 0)
+    myOled.show()
+    print("Esperando conexion...")
+    wlan = network.WLAN(network.STA_IF)
+    wlan.active(True)
+    wlan.connect('TecNM-ITT-Docentes', 'tecnm2022!')
+    
+def Request():
+    payload = ujson.dumps({
+      "model": "gpt-3.5-turbo",
+      "messages": [
+        {
+          "role": "user",
+          "content": myQuestion
+        },
+      ],
+      "temperature": 1,
+      "top_p": 1,
+      "n": 1,
+      "stream": False,
+      "max_tokens": 100,
+      "presence_penalty": 0,
+      "frequency_penalty": 0
+    })
+    headers = {
+      'Content-Type': 'application/json',
+      'Accept': 'application/json',
+      'Authorization': 'Bearer ' + apiKey
+    }
+    gptResponse = requests.post(myURL, headers=headers, data=payload)
+    gptResponse_data = gptResponse.json()
+    gptMessage = gptResponse_data["choices"][0]["message"]["content"]
+    gptResponse.close()
+    myOled.text(gptMessage, 0, 0)
+    #myOled.show()
+    myResponse(gptMessage)
+    print(frmtText(gptMessage, 128//8))
+
+def frmtText(gptMessage, maxResX):
+    myText = io.StringIO()
+    lenghtIndex = 0
+    for char in gptMessage:
+        if lenghtIndex == 0 and char == " ":
+            continue
+        if lenghtIndex >= maxResX:
+            lenghtIndex = 0
+            if char not in ("\n", " "):
+                lenghtIndex += 1
+            myText.write("\n" + char.strip())
+            continue
+        myText.write(char)
+        lenghtIndex += 1
+    return myText.getvalue()
+
+def myResponse(gptMessage):
+    textSize = 8
+    myfmtText = frmtText(gptMessage, oled_resX // textSize)
+    myOled.fill(0)
+    for i, line in enumerate(myfmtText.splitlines()):
+        x = 0
+        y = i * textSize
+        myOled.text(line, x, y)
+    try:
+        myOled.show()
+    except OSError:
+        print("Display error")
+
+def main():
+    Connect()
+    madeRequest = False
+    while True:
+        if myButton.value() == 0 and not madeRequest:
+            myOled.fill(0)
+            Request()
+            madeRequest = True
+
+if __name__ == '__main__':
+    main()
 ```
