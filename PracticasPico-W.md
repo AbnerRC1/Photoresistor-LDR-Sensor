@@ -799,7 +799,7 @@ listBytes = [bytesLoad1, bytesLoad2, bytesLoad3, bytesLoad4, bytesLoad5, bytesLo
 def connect():
     miWlan = network.wlan(network.STA_IF)
     miWlan.active(True)
-    miWlan.connect('TecNM-ITT-Docentes', 'tecnm2022!')
+    miWlan.connect('-', '-')
     while miWlan.isconnected() == False:
         for miBuffer in listBytes:
             if loadStep != len(listBytes):
@@ -1141,7 +1141,7 @@ from ssd1306 import SSD1306_I2C
 
 myURL = "https://api.openai.com/v1/chat/completions"
 myQuestion = "Dime un chiste corto sin texto extra"
-apiKey = "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"
+apiKey = "-"
 oled_resX = 128
 oled_resY = 64
 
@@ -1155,7 +1155,7 @@ def Connect():
     print("Esperando conexion...")
     wlan = network.WLAN(network.STA_IF)
     wlan.active(True)
-    wlan.connect('TecNM-ITT-Docentes', 'tecnm2022!')
+    wlan.connect('-', '-')
     
 def Request():
     payload = ujson.dumps({
